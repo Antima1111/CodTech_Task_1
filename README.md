@@ -1,7 +1,7 @@
 # CodTech_Task_1 : API Integration and Data Visualization
 
-## 🔍 Task Description
 This project is part of the CodTech internship and involves fetching real-time weather data using a public API and visualizing it using Python.  
+
 The aim is to understand how API integration works and how to present data in a visually meaningful way using graphs.
 
 ---
@@ -35,14 +35,17 @@ The aim is to understand how API integration works and how to present data in a 
 ### Step 1: Install dependencies
 Open terminal or command prompt and run:
 
-```bash
+
 pip install requests matplotlib
 
 ---
+
 ## Output
-the output has been subbmitted as " Visualization Dashboard" file .
+The output has been subbmitted as " Visualization Dashboard" file .
+
 ---
 
 ## Submitted by : Antima Samokhu Prajapati
+
 Internship : CodTech
 Task 1 : API Integration and Data Visualization
