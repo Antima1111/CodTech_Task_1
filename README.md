@@ -53,5 +53,7 @@ The output has been subbmitted as " Visualization_Dashboard.png" file .
 ## Submitted by:
 
 Name : Antima Samokhu Prajapati
+
 Internship : CodTech
+
 Task 1 : API Integration and Data Visualization
