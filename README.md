@@ -7,14 +7,19 @@ The aim is to understand how API integration works and how to present data in a 
 ---
 
 ## 📝 Task Objectives
+
 1. Integrate the **OpenWeatherMap API** to fetch the 5-day weather forecast of **Mumbai**.
+   
 2. Extract and process only **12:00 PM temperature data** from the API response.
+  
 3. Create a **line plot** showing the temperature trend for 5 days using **Matplotlib**.
+ 
 4. Build a beginner-friendly Python script with clean code and visualization.
 
 ---
 
 ## 🛠 Tools & Libraries Used
+
 - **Python** — core programming language
 - **requests** — to connect with OpenWeatherMap API
 - **matplotlib** — to generate graphs from data
@@ -41,11 +46,12 @@ pip install requests matplotlib
 ---
 
 ## Output
-The output has been subbmitted as " Visualization Dashboard" file .
+The output has been subbmitted as " Visualization_Dashboard.png" file .
 
 ---
 
-## Submitted by : Antima Samokhu Prajapati
+## Submitted by:
 
+Name : Antima Samokhu Prajapati
 Internship : CodTech
 Task 1 : API Integration and Data Visualization
